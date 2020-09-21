@@ -17,12 +17,39 @@
 	/* ---------------------------------------------------------------------------------------------------------- 
 	01 Color ----------------------------------------------------------------------------------------
 	---------------------------------------------------------------------------------------------------------- */
+html{
+  background-color: hsla(280, 13%, 25%, 0.8);
+  padding: 7%;
+}
+body{
+  background-color: hsla(, saturation, lightness);
+  color: hsla(0,100%, 100%, 0.9); 
+}
+header h1{
+  background-color: hsla(0, 100%, 30%, 0.99);
+}
 
+div.preamble, div.requirements, div.benefits{
+
+}
+footer{
+
+}
+
+div.participation{
+
+}
+aside.sidebar{
+
+}
 
 
 
 
 /** 02 Typography -- Font  **/
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+}
 
 
 
